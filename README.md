@@ -1,6 +1,6 @@
-# mydiary-framework-startup
+# nibro-framework-startupextension
 
-This nuget package contain common startup service and it's configuration which can be used by any .net core 3.1 based microservices. This nuget package has following service.
+Middleware nuget package for ASP.NET Core to register all common external services. This nuget package has following service.
 
 - API Versioning 
 - Health Check
