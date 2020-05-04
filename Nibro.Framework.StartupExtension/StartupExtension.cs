@@ -10,7 +10,7 @@ using Microsoft.OpenApi.Models;
 using Newtonsoft.Json;
 using Swashbuckle.AspNetCore.Swagger;
 
-namespace MyDiary.Framework.Startup
+namespace Nibro.Framework.StartupExtension
 {
     public static class StartupExtension
     {
