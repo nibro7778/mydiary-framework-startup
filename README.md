@@ -1,4 +1,4 @@
-# nibro-framework-startupextension
+# nibro-framework-startup extension
 
 Middleware nuget package for ASP.NET Core to register all common external services. This nuget package has following service.
 
